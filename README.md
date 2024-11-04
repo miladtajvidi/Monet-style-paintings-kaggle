@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="./gan.jpeg" alt="Description of image" width="300">
+</p>
+
+
 # Monet-style-paintings-kaggle
 
 ## Project Overview
@@ -33,4 +38,4 @@ Exploratory Data Analysis (EDA):
 
 ## References
 
-[Competition URL](https://www.kaggle.com/competitions/gan-getting-started/overview)
+[I'm Something of a Painter Myself](https://www.kaggle.com/competitions/gan-getting-started/overview)
